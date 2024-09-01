@@ -1,5 +1,4 @@
 // Write your code here
-
 import Popup from 'reactjs-popup'
 
 import Payment from '../Payment'
